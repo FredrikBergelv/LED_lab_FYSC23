@@ -1,19 +1,19 @@
 # Fdb version 4
-["bibtex output/main"] 1740062203.60159 "output/main.aux" "output/main.bbl" "output/main" 1740062515.10119 0
+["bibtex output/main"] 1740062203.60159 "output/main.aux" "output/main.bbl" "output/main" 1740063673.77453 0
   "./Textfiles/sources.bib" 1740045704.09054 236 0aa15f7b0b3e4bedf08ebdc002100eca ""
   "/usr/local/texlive/2023/texmf-dist/bibtex/bst/base/unsrt.bst" 1292289607 18030 1376b4b231b50c66211e47e42eda2875 ""
-  "output/Textfiles/appendix.aux" 1740062514.23496 1107 0ab0310772b2c6f085001050096f62a0 "xelatex"
-  "output/main.aux" 1740062514.23564 6505 763a6f90d7575aa4dff7d6e9d627cd1c "xelatex"
+  "output/Textfiles/appendix.aux" 1740063672.89509 1107 0ab0310772b2c6f085001050096f62a0 "xelatex"
+  "output/main.aux" 1740063672.89562 6505 763a6f90d7575aa4dff7d6e9d627cd1c "xelatex"
   (generated)
   "output/main.bbl"
   "output/main.blg"
   (rewritten before read)
-["xdvipdfmx"] 1740062514.48898 "output/main.xdv" "output/main.pdf" "output/main" 1740062515.10336 0
-  "output/main.xdv" 1740062514.23734 34372 cdde53be5574c3483c93b3f2937b4f3f "xelatex"
+["xdvipdfmx"] 1740063673.14562 "output/main.xdv" "output/main.pdf" "output/main" 1740063673.77696 0
+  "output/main.xdv" 1740063672.89727 35360 0735c72438280352b8b080f44a9f1282 "xelatex"
   (generated)
   "output/main.pdf"
   (rewritten before read)
-["xelatex"] 1740062513.28643 "/Users/maxeriksson/University/LED_lab_FYSC23/LED_report/main.tex" "output/main.xdv" "main" 1740062515.10128 0
+["xelatex"] 1740063671.88952 "/Users/maxeriksson/University/LED_lab_FYSC23/LED_report/main.tex" "output/main.xdv" "main" 1740063673.77467 0
   "/Users/maxeriksson/University/LED_lab_FYSC23/LED_report/main.tex" 1740054981.90437 594 f59ebd6db463d3bb7c769e210439ddbd ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
@@ -241,15 +241,15 @@
   "Textfiles/1.Introduction.tex" 1740059858.00231 4513 196fc2ea32613a8f279510633e11d457 ""
   "Textfiles/2.Method.tex" 1740056674.36446 2748 13549d13eae54bf463b3680e5f0eb7f2 ""
   "Textfiles/3.Result.tex" 1740062513.10613 3385 9ea7d256782eeabb04cc8680a4225603 ""
-  "Textfiles/4.Discussion.tex" 1740062202.21874 552 29dfcd98ee52337583689312e0a1079a ""
+  "Textfiles/4.Discussion.tex" 1740063671.7258 1361 7258afc4ed0e239c84c9512bdbc3f466 ""
   "Textfiles/5.Conclusion.tex" 1740044585.76945 20 b50204e17c0a475d3d65191e029fdf1d ""
   "Textfiles/appendix.tex" 1740044585.7695 0 d41d8cd98f00b204e9800998ecf8427e ""
   "main.tex" 1740054981.90437 594 f59ebd6db463d3bb7c769e210439ddbd ""
-  "output/Textfiles/appendix.aux" 1740062514.23496 1107 0ab0310772b2c6f085001050096f62a0 "xelatex"
-  "output/main.aux" 1740062514.23564 6505 763a6f90d7575aa4dff7d6e9d627cd1c "xelatex"
+  "output/Textfiles/appendix.aux" 1740063672.89509 1107 0ab0310772b2c6f085001050096f62a0 "xelatex"
+  "output/main.aux" 1740063672.89562 6505 763a6f90d7575aa4dff7d6e9d627cd1c "xelatex"
   "output/main.bbl" 1740062203.72034 183 98e0478c1cccabc455c9e1ddc89e70a2 "bibtex output/main"
-  "output/main.out" 1740062514.23705 1475 d984f9db79e5a0fa4cba4889481ee323 "xelatex"
-  "output/main.toc" 1740062514.23726 1121 1dfe237f211bc559634e7075e483282b "xelatex"
+  "output/main.out" 1740063672.89691 1475 d984f9db79e5a0fa4cba4889481ee323 "xelatex"
+  "output/main.toc" 1740063672.89709 1121 1dfe237f211bc559634e7075e483282b "xelatex"
   (generated)
   "output/Textfiles/appendix.aux"
   "output/main.aux"

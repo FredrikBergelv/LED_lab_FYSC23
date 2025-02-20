@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.9.20)  20 FEB 2025 15:41
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.9.20)  20 FEB 2025 16:01
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -953,9 +953,9 @@ File: Figures/Part2_after.png Graphic file (type bmp)
 <Figures/Part2_after.png>
 
 
-[4]) (./Textfiles/4.Discussion.tex) (./Textfiles/5.Conclusion.tex)
+[4]) (./Textfiles/4.Discussion.tex
 
-[5]
+[5]) (./Textfiles/5.Conclusion.tex)
 
 [6] (output/main.bbl)
 
@@ -981,4 +981,4 @@ Here is how much of TeX's memory you used:
  1348 hyphenation exceptions out of 8191
  103i,12n,110p,2423b,907s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on output/main.xdv (10 pages, 34372 bytes).
+Output written on output/main.xdv (10 pages, 35360 bytes).
