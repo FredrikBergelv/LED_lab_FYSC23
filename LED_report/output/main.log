@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.9.20)  20 FEB 2025 14:57
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.9.20)  20 FEB 2025 16:01
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -938,12 +938,12 @@ Missing character: There is no Ω ("2126) in font ec-lmr10!
 ) (./Textfiles/3.Result.tex
 
 [2]
-File: Figures/part1(a).pdf Graphic file (type pdf)
-<use Figures/part1(a).pdf>
 File: Figures/part1(b).pdf Graphic file (type pdf)
 <use Figures/part1(b).pdf>
 File: Figures/part1(c).pdf Graphic file (type pdf)
 <use Figures/part1(c).pdf>
+File: Figures/part1(a).pdf Graphic file (type pdf)
+<use Figures/part1(a).pdf>
 
 
 [3]
@@ -953,9 +953,9 @@ File: Figures/Part2_after.png Graphic file (type bmp)
 <Figures/Part2_after.png>
 
 
-[4]) (./Textfiles/4.Discussion.tex) (./Textfiles/5.Conclusion.tex)
+[4]) (./Textfiles/4.Discussion.tex
 
-[5]
+[5]) (./Textfiles/5.Conclusion.tex)
 
 [6] (output/main.bbl)
 
@@ -970,15 +970,15 @@ LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-08-30>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 932C90B2F879C3CB101D17C9C6A53B1F;1293.
+(rerunfilecheck)             Checksum: D984F9DB79E5A0FA4CBA4889481EE323;1475.
  ) 
 Here is how much of TeX's memory you used:
- 34993 strings out of 474235
- 707864 string characters out of 5742253
- 1182808 words of memory out of 5000000
- 57080 multiletter control sequences out of 15000+600000
- 610337 words of font info for 63 fonts, out of 8000000 for 9000
+ 34998 strings out of 474235
+ 707916 string characters out of 5742253
+ 1184210 words of memory out of 5000000
+ 57084 multiletter control sequences out of 15000+600000
+ 613318 words of font info for 64 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  103i,12n,110p,2423b,907s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on output/main.xdv (10 pages, 29084 bytes).
+Output written on output/main.xdv (10 pages, 35360 bytes).
