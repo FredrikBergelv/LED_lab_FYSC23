@@ -410,10 +410,10 @@ OUTPUT output/main.toc
 INPUT ./Textfiles/1.Introduction.tex
 INPUT ./Textfiles/1.Introduction.tex
 INPUT Textfiles/1.Introduction.tex
+INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/lm/ec-lmbx12.tfm
 INPUT ./Textfiles/2.Method.tex
 INPUT ./Textfiles/2.Method.tex
 INPUT Textfiles/2.Method.tex
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/lm/ec-lmbx12.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/lm/ec-lmr7.tfm
 INPUT ./Textfiles/3.Result.tex
 INPUT ./Textfiles/3.Result.tex
