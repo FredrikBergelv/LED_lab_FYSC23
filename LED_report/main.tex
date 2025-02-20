@@ -17,7 +17,7 @@
 \newpage
 \setcounter{page}{1}
 \pagestyle{fancy}}{}
-
+\doublespacing
 \input{Textfiles/1.Introduction.tex}
 \input{Textfiles/2.Method.tex}
 \input{Textfiles/3.Result.tex}
@@ -25,7 +25,7 @@
 \input{Textfiles/5.Conclusion.tex}
 
 \newpage
-\ifthenelse{\equal{\IncludeBib}{true}}{\bibliography{Textfiles/References}}{}
+\ifthenelse{\equal{\IncludeBib}{true}}{\bibliography{Textfiles/sources.bib}}{}
 \include{Textfiles/appendix.tex}{}
 
 \end{document}
