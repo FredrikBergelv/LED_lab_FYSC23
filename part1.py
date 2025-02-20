@@ -63,12 +63,15 @@ plt.grid()
 plt.savefig('LED_report/Figures/part1(b).pdf')  
 plt.close()
 
-# Plot 3: Voltage Across vs Intensity
+
+"""
+Plot 3: Voltage Across vs Intensity
+"""
 plt.figure(figsize=size)
 plt.scatter(Vacross, Intensity, label="Measured data")
-plt.xlabel("Voltage Across (V)")
+plt.xlabel("Voltage across LED (V)")
 plt.ylabel("Intensity (counts)")
-plt.title("Voltage Across vs Intensity")
+plt.title("Voltage LED vs Intensity")
 plt.legend()
 plt.grid()
 plt.savefig('LED_report/Figures/part1(c).pdf') 

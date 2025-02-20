@@ -1,6 +1,6 @@
 \section{Result}
 \subsection{Part 1}
-In the first part the peak which was measured from the white diode was located at \SI{454.17}{\nano\m}. Using the data obtained from the measurements \autoref{fig:part1} was obtained. From the linear fit in \autoref{fig:a} one can see that that the linear x-axis intersects 
+In the first part the peak which was measured from the white diode was located at \SI{454.17}{\nano\m}. Using the data obtained from the measurements \autoref{fig:part1} was obtained. From the linear fit in \autoref{fig:a} one can see that that the linear fit intersects the x-axis at $V_\text{in}=\SI{2.7}{\V}$. This means that a voltage under this value would yield no current output, which can be seen in the figure. Thus, one can conclude that the forward bias is $V_\text{in}=\SI{2.7}{\V}$. 
 
 \begin{figure}[H]
     \centering
@@ -10,7 +10,7 @@ In the first part the peak which was measured from the white diode was located a
     
     \vspace{0.5cm}
     
-    \subfloat[This plot displays the current in the circuit over the voltage from DC-source. A linear fit was also used for the non-zero measurements. ]{\includegraphics[width=0.49\textwidth]{Figures/part1(a).pdf} \label{fig:c}}
+    \subfloat[This plot displays the current in the circuit over the voltage from DC-source. A linear fit was used for the non-zero measurements, since this fit would be used to calculate the forward bias. ]{\includegraphics[width=0.49\textwidth]{Figures/part1(a).pdf} \label{fig:c}}
 
     \caption{Plots of the measurements.}
     \label{fig:part1}
@@ -20,29 +20,39 @@ In the first part the peak which was measured from the white diode was located a
 
 
 \subsection{Part 2}
-
-\begin{figure}[H]
-    \centering
-    \subfloat[Spring]{\includegraphics[width=0.5\textwidth]{Figures/Part2_before.png} \label{fig:before}}
-    \hfill
-    \subfloat[Summer]{\includegraphics[width=0.5\textwidth]{Figures/Part2_after.png} \label{fig:after}}
-    \caption{...}
-    \label{fig:part2}
-\end{figure}
-
-Wavelength white LED: 596.85 nm 
-integration time 2 ms 
-averaging every 10th measurements
-
-Before: V\textsubscript{in} was 5.0 V, V\textsubscript{across} 2.06 V, I\textsubscript{circuit} 30.8 mA and the intensity 2663.70
-
-After: V\textsubscript{in} was 5.0 V, V\textsubscript{across} 4.44 V, I\textsubscript{circuit} 7.7 mA and the intensity 10752.70
-
-
-\subsection{Part 3}
+The measurements from the circuit before was combined with the measurements from the program, as seen in \autoref{fig:part2}, in \autoref{tab:part2}.
 
 \begin{table}[H]
     \centering
+    \caption{This table shows the measurements.}
+    \begin{tabular}{@{}llllll@{}}
+    \toprule
+    Measurement      & V\textsubscript{in} (V) & V\textsubscript{LED} (V) & I\textsubscript{circuit} (mA) & $\lambda_\text{peak}$ (nm) & Intensity (counts) \\ \midrule
+    Room temperature & 5.0& 2.06& 30.8& 596.70& 2663.70\\
+    Liquid nitrogen  & 5.0& 4.44                     & 7.7& 569.69& 10757.70\\ \bottomrule
+    \end{tabular}
+    \label{tab:part2}
+    \end{table}
+
+
+\begin{figure}[H]
+    \centering
+    \subfloat[This was the output from the program at room temperature.]{\includegraphics[width=0.5\textwidth]{Figures/Part2_before.png} \label{fig:before}}
+    \hfill
+    \subfloat[This was the output from the program when submerged in liquid nitrogen.]{\includegraphics[width=0.5\textwidth]{Figures/Part2_after.png} \label{fig:after}}
+    \caption{This figure display the output from AvaSoft at the different measurements.}
+    \label{fig:part2}
+\end{figure}
+
+
+
+
+\subsection{Part 3}
+The result from the different diode constellations as detectors and emitters can be seen in \autoref{tab:part3} 
+
+\begin{table}[H]
+    \centering
+    \caption{This table displays which combinations of detectors and emitters yielded an voltage output from the diode in the smaller circuit.}
     \begin{tabular}{@{}llll@{}}
     \toprule
     Detector/Emitter & Red    & Green     & Blue      \\ \midrule
@@ -50,5 +60,5 @@ After: V\textsubscript{in} was 5.0 V, V\textsubscript{across} 4.44 V, I\textsubs
     Green            & Output & Output    & No output \\
     Blue             & Output & Output    & Output    \\ \bottomrule
     \end{tabular}
-    \caption{tab:part3}
+    \label{tab:part3}
 \end{table}
