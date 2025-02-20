@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.11.25)  20 FEB 2025 10:27
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.11.25)  20 FEB 2025 10:51
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -838,7 +838,7 @@ LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 25
  (/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
-<Figures/Lund logo.png, id=49, 490.83376pt x 512.91624pt>
+<Figures/Lund logo.png, id=53, 490.83376pt x 512.91624pt>
 File: Figures/Lund logo.png Graphic file (type png)
 <use Figures/Lund logo.png>
 Package pdftex.def Info: Figures/Lund logo.png  used on input line 38.
@@ -851,11 +851,11 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has b
                    \relax 
 l.13 \newpage
               [1] (.output/main.toc
-LaTeX Font Info:    Trying to load font information for U+msa on input line 3.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 4.
  (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 3.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 4.
  (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ))
@@ -863,17 +863,17 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 \openout6 = `main.toc'.
 
  [2] (./Textfiles/1.Introduction.tex) (./Textfiles/2.Method.tex) (./Textfiles/3.Result.tex
-<Figures/part1(a).pdf, id=85, 361.35pt x 361.35pt>
+<Figures/part1(a).pdf, id=90, 361.35pt x 361.35pt>
 File: Figures/part1(a).pdf Graphic file (type pdf)
 <use Figures/part1(a).pdf>
 Package pdftex.def Info: Figures/part1(a).pdf  used on input line 6.
 (pdftex.def)             Requested size: 223.07211pt x 223.07529pt.
-<Figures/part1(b).pdf, id=86, 361.35pt x 361.35pt>
+<Figures/part1(b).pdf, id=91, 361.35pt x 361.35pt>
 File: Figures/part1(b).pdf Graphic file (type pdf)
 <use Figures/part1(b).pdf>
 Package pdftex.def Info: Figures/part1(b).pdf  used on input line 8.
 (pdftex.def)             Requested size: 223.07211pt x 223.07529pt.
-<Figures/part1(c).pdf, id=87, 361.35pt x 361.35pt>
+<Figures/part1(c).pdf, id=92, 361.35pt x 361.35pt>
 File: Figures/part1(c).pdf Graphic file (type pdf)
 <use Figures/part1(c).pdf>
 Package pdftex.def Info: Figures/part1(c).pdf  used on input line 12.
@@ -884,12 +884,12 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has b
                    \relax 
 l.18 
       [1]
-<Figures/Part2_before.png, id=94, 1251.92719pt x 551.81157pt>
+<Figures/Part2_before.png, id=99, 1251.92719pt x 551.81157pt>
 File: Figures/Part2_before.png Graphic file (type png)
 <use Figures/Part2_before.png>
 Package pdftex.def Info: Figures/Part2_before.png  used on input line 24.
 (pdftex.def)             Requested size: 409.71692pt x 180.5912pt.
-<Figures/Part2_after.png, id=95, 1253.43282pt x 554.07pt>
+<Figures/Part2_after.png, id=100, 1253.43282pt x 554.07pt>
 File: Figures/Part2_after.png Graphic file (type png)
 <use Figures/Part2_after.png>
 Package pdftex.def Info: Figures/Part2_after.png  used on input line 26.
@@ -911,21 +911,21 @@ LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 20F6E7CC39854E0D920A4726DDB2AA18;906.
+(rerunfilecheck)             Checksum: F72BF95E979A8B2E0549E5C8BD071068;980.
  ) 
 Here is how much of TeX's memory you used:
- 31914 strings out of 474222
- 627916 string characters out of 5748732
+ 31916 strings out of 474222
+ 627936 string characters out of 5748732
  1935975 words of memory out of 5000000
- 53613 multiletter control sequences out of 15000+600000
+ 53614 multiletter control sequences out of 15000+600000
  571256 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,12n,96p,2446b,948s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf/fonts/type1/public/cm-super/sfbx1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx2074.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfcc0800.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfcc1728.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm0700.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm0900.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt1200.pfb>
-Output written on .output/main.pdf (6 pages, 454867 bytes).
+Output written on .output/main.pdf (6 pages, 459226 bytes).
 PDF statistics:
- 271 PDF objects out of 1000 (max. 8388607)
- 140 compressed objects within 2 object streams
- 20 named destinations out of 1000 (max. 500000)
- 123 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 276 PDF objects out of 1000 (max. 8388607)
+ 145 compressed objects within 2 object streams
+ 21 named destinations out of 1000 (max. 500000)
+ 131 words of extra memory for PDF output out of 10000 (max. 10000000)
 

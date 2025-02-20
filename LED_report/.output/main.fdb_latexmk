@@ -1,5 +1,5 @@
 # Fdb version 4
-["bibtex .output/main"] 0 ".output/main.aux" ".output/main.bbl" ".output/main" 1740043649.061 0
+["bibtex .output/main"] 0 ".output/main.aux" ".output/main.bbl" ".output/main" 1740045083.87452 0
   ".output/Textfiles/appendix.aux" 1739968929.0802 1005 44356b3f37bfab01a173041274fd8b3a "pdflatex"
   ".output/main.aux" 0 -1 0 "pdflatex"
   "/usr/share/texlive/texmf-dist/bibtex/bst/base/unsrt.bst" 1292289607 18030 1376b4b231b50c66211e47e42eda2875 ""
@@ -8,12 +8,12 @@
   ".output/main.bbl"
   ".output/main.blg"
   (rewritten before read)
-["pdflatex"] 1740043648.01148 "/home/fredrik/Documents/Physics Lund/Term 6/FYSC23/LED_lab_FYSC23/LED_report/main.tex" ".output/main.pdf" "main" 1740043649.0612 0
-  ".output/Textfiles/appendix.aux" 1740043648.81105 1006 bc1f85eaf46e727219a1f4a80b154da2 "pdflatex"
-  ".output/main.aux" 1740043648.81205 3032 f9502d76136e4b6ee6fc113613cf7dc5 "pdflatex"
+["pdflatex"] 1740045082.72397 "/home/fredrik/Documents/Physics Lund/Term 6/FYSC23/LED_lab_FYSC23/LED_report/main.tex" ".output/main.pdf" "main" 1740045083.8747 0
+  ".output/Textfiles/appendix.aux" 1740045083.65536 1006 7d121ac8929b032cec8531ffa4d325a0 "pdflatex"
+  ".output/main.aux" 1740045083.65636 3135 d81fd63897e26848ea5e5a86971fcb8a "pdflatex"
   ".output/main.bbl" 0 -1 0 "bibtex .output/main"
-  ".output/main.out" 1740043648.81305 906 20f6e7cc39854e0d920a4726ddb2aa18 "pdflatex"
-  ".output/main.toc" 1740043648.81305 688 eb21ef662cdf9bbbc7e9da7a05e7d97c "pdflatex"
+  ".output/main.out" 1740045083.65736 980 f72bf95e979a8b2e0549e5c8bd071068 "pdflatex"
+  ".output/main.toc" 1740045083.65736 750 4a712194cc1c515fbc12d75c09cf4948 "pdflatex"
   "/etc/texmf/web2c/texmf.cnf" 1732548902.53758 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/home/fredrik/Documents/Physics Lund/Term 6/FYSC23/LED_lab_FYSC23/LED_report/main.tex" 1739968837.51062 594 e6eb7c702f52cc3e65696eb96fe365c1 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -235,9 +235,9 @@
   "Other/Premable.tex" 1739968626.54428 2024 4e1dbb1ee978a5b0d61054b68a03489d ""
   "Other/Title.tex" 1739968626.54428 787 73533d8665221aed7e67c7bc47cde224 ""
   "Textfiles/0.Abstract.tex" 1739968927.21519 19 4a73f522bd35913f1bb3c413c74cfebd ""
-  "Textfiles/1.Introduction.tex" 1739968626.54528 22 5c23bcd9d46cf48d2292896666a8a8fc ""
+  "Textfiles/1.Introduction.tex" 1740045081.23136 57 33a3d2494249bdd37015341950fc3aa3 ""
   "Textfiles/2.Method.tex" 1740042576.47539 2496 2621894e1faa2f0383832c61118d37e7 ""
-  "Textfiles/3.Result.tex" 1740043646.37804 1321 c55b4a88651df3b46adc2ffce64e8782 ""
+  "Textfiles/3.Result.tex" 1740044755.64585 1225 e8cdc3c1bb1dff23915249fbe11638f6 ""
   "Textfiles/4.Discussion.tex" 1739968626.54528 20 0e9daa63e73e84f4a684b671b2ca76db ""
   "Textfiles/5.Conclusion.tex" 1739968626.54528 20 b50204e17c0a475d3d65191e029fdf1d ""
   "Textfiles/Appendix.tex" 1739968626.54528 0 d41d8cd98f00b204e9800998ecf8427e ""
