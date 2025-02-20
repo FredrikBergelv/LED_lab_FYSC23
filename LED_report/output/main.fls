@@ -426,7 +426,6 @@ OUTPUT output/main.toc
 INPUT ./Textfiles/1.Introduction.tex
 INPUT ./Textfiles/1.Introduction.tex
 INPUT Textfiles/1.Introduction.tex
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/lm/ec-lmbx12.tfm
 INPUT ./Textfiles/2.Method.tex
 INPUT ./Textfiles/2.Method.tex
 INPUT Textfiles/2.Method.tex
@@ -440,6 +439,7 @@ INPUT ./Figures/circuit_part3.png
 INPUT ./Textfiles/3.Result.tex
 INPUT ./Textfiles/3.Result.tex
 INPUT Textfiles/3.Result.tex
+INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/lm/ec-lmbx12.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/lm/ec-lmr7.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/lm/ec-lmr5.tfm
 INPUT ./Figures/part1(b).pdf
@@ -451,12 +451,12 @@ INPUT ./Figures/part1(c).pdf
 INPUT ./Figures/part1(a).pdf
 INPUT ./Figures/part1(a).pdf
 INPUT ./Figures/part1(a).pdf
-INPUT ./Figures/Part2_before.png
-INPUT ./Figures/Part2_before.png
-INPUT ./Figures/Part2_before.png
-INPUT ./Figures/Part2_after.png
-INPUT ./Figures/Part2_after.png
-INPUT ./Figures/Part2_after.png
+INPUT ./Figures/Part2_before2.png
+INPUT ./Figures/Part2_before2.png
+INPUT ./Figures/Part2_before2.png
+INPUT ./Figures/Part2_after2.png
+INPUT ./Figures/Part2_after2.png
+INPUT ./Figures/Part2_after2.png
 INPUT ./Textfiles/4.Discussion.tex
 INPUT ./Textfiles/4.Discussion.tex
 INPUT Textfiles/4.Discussion.tex
