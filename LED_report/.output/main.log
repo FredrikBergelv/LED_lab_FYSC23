@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.11.25)  20 FEB 2025 10:51
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.11.25)  20 FEB 2025 13:31
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -737,7 +737,45 @@ Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
 \tcb@temp=\box87
 \tcb@temp=\box88
 \tcb@temp=\box89
-))
+) (/usr/share/texlive/texmf-dist/tex/latex/svg/svg.sty
+Package: svg 2020/11/26 v2.02k (include SVG pictures)
+ (/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrbase.sty
+Package: scrbase 2023/07/07 v3.41 KOMA-Script package (KOMA-Script-independent basics and keyval usage)
+ (/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlfile.sty
+Package: scrlfile 2023/07/07 v3.41 KOMA-Script package (file load hooks)
+ (/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty
+Package: scrlfile-hook 2023/07/07 v3.41 KOMA-Script package (using LaTeX hooks)
+ (/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlogo.sty
+Package: scrlogo 2023/07/07 v3.41 KOMA-Script package (logo)
+)))
+Applying: [2021/05/01] Usage of raw or classic option list on input line 252.
+Already applied: [0000/00/00] Usage of raw or classic option list on input line 368.
+) (/usr/share/texlive/texmf-dist/tex/latex/tools/shellesc.sty
+Package: shellesc 2023/07/08 v1.0d unified shell escape interface for LaTeX
+Package shellesc Info: Unrestricted shell escape enabled on input line 75.
+) (/usr/share/texlive/texmf-dist/tex/latex/ifplatform/ifplatform.sty
+Package: ifplatform 2017/10/13 v0.4a Testing for the operating system
+ (/usr/share/texlive/texmf-dist/tex/generic/catchfile/catchfile.sty
+Package: catchfile 2019/12/09 v1.8 Catch the contents of a file (HO)
+ (/usr/share/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)) (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+)
+runsystem(uname -s > "main.w18")...executed.
+
+ (./main.w18)
+runsystem(rm -- "main.w18")...executed.
+
+)
+\c@svg@param@lastpage=\count366
+\svg@box=\box90
+\c@svg@param@currpage=\count367
+) (/usr/share/texlive/texmf-dist/tex/latex/transparent/transparent.sty
+Package: transparent 2022-10-27 v1.5 Transparency with color stacks
+ (/usr/share/texlive/texmf-dist/tex/latex/transparent/transparent-nometadata.sty
+Package: transparent-nometadata 2022-10-27 v1.5 Transparency via pdfTeX's color stack (HO)
+)))
 Package translations Info: No language package found. I am going to use `english' as default language. on input line 7.
  (.output/main.aux (.output/Textfiles/appendix.aux))
 \openout1 = `main.aux'.
@@ -802,16 +840,16 @@ Package hyperref Info: Link coloring ON on input line 7.
 
  (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count366
+\scratchcounter=\count368
 \scratchdimen=\dimen303
-\scratchbox=\box90
-\nofMPsegments=\count367
-\nofMParguments=\count368
+\scratchbox=\box91
+\nofMPsegments=\count369
+\nofMParguments=\count370
 \everyMPshowfont=\toks59
-\MPscratchCnt=\count369
+\MPscratchCnt=\count371
 \MPscratchDim=\dimen304
-\MPnumerator=\count370
-\makeMPintoPDFobject=\count371
+\MPnumerator=\count372
+\makeMPintoPDFobject=\count373
 \everyMPtoPDFconversion=\toks60
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -832,13 +870,22 @@ Package caption Info: End \AtBeginDocument code.
 File: translations-basic-dictionary-english.trsl (english translation file `translations-basic-dictionary')
 )
 Package translations Info: loading dictionary `translations-basic-dictionary' for `english'. on input line 7.
-\c@lstlisting=\count372
- (./Other/Title.tex
+\c@lstlisting=\count374
+ (|'inkscape' -V )
+
+Package svg Warning: No version of Inkscape was detected by invoking
+(svg)                `inkscape -V'
+(svg)                so the Inkscape export will fail quite sure as the
+(svg)                command is probably unknown to your OS. You could set
+(svg)                `inkscapeversion=<version>' manually but this is very
+(svg)                unlikely to work on input line 7.
+
+(./Other/Title.tex
 LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 25.
  (/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
-<Figures/Lund logo.png, id=53, 490.83376pt x 512.91624pt>
+<Figures/Lund logo.png, id=65, 490.83376pt x 512.91624pt>
 File: Figures/Lund logo.png Graphic file (type png)
 <use Figures/Lund logo.png>
 Package pdftex.def Info: Figures/Lund logo.png  used on input line 38.
@@ -851,59 +898,69 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has b
                    \relax 
 l.13 \newpage
               [1] (.output/main.toc
-LaTeX Font Info:    Trying to load font information for U+msa on input line 4.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 3.
  (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 4.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 3.
  (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ))
 \tf@toc=\write6
 \openout6 = `main.toc'.
 
- [2] (./Textfiles/1.Introduction.tex) (./Textfiles/2.Method.tex) (./Textfiles/3.Result.tex
-<Figures/part1(a).pdf, id=90, 361.35pt x 361.35pt>
-File: Figures/part1(a).pdf Graphic file (type pdf)
-<use Figures/part1(a).pdf>
-Package pdftex.def Info: Figures/part1(a).pdf  used on input line 6.
-(pdftex.def)             Requested size: 223.07211pt x 223.07529pt.
-<Figures/part1(b).pdf, id=91, 361.35pt x 361.35pt>
-File: Figures/part1(b).pdf Graphic file (type pdf)
-<use Figures/part1(b).pdf>
-Package pdftex.def Info: Figures/part1(b).pdf  used on input line 8.
-(pdftex.def)             Requested size: 223.07211pt x 223.07529pt.
-<Figures/part1(c).pdf, id=92, 361.35pt x 361.35pt>
-File: Figures/part1(c).pdf Graphic file (type pdf)
-<use Figures/part1(c).pdf>
-Package pdftex.def Info: Figures/part1(c).pdf  used on input line 12.
-(pdftex.def)             Requested size: 223.07211pt x 223.07529pt.
-
+ [2] (./Textfiles/1.Introduction.tex) (./Textfiles/2.Method.tex
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.18 
-      [1]
-<Figures/Part2_before.png, id=99, 1251.92719pt x 551.81157pt>
-File: Figures/Part2_before.png Graphic file (type png)
-<use Figures/Part2_before.png>
-Package pdftex.def Info: Figures/Part2_before.png  used on input line 24.
-(pdftex.def)             Requested size: 409.71692pt x 180.5912pt.
-<Figures/Part2_after.png, id=100, 1253.43282pt x 554.07pt>
-File: Figures/Part2_after.png Graphic file (type png)
-<use Figures/Part2_after.png>
-Package pdftex.def Info: Figures/Part2_after.png  used on input line 26.
-(pdftex.def)             Requested size: 409.71692pt x 181.1105pt.
+l.5 
+     [1]
+<Figures/circuit_part1.png, id=120, 240.9pt x 200.75pt>
+File: Figures/circuit_part1.png Graphic file (type png)
+<use Figures/circuit_part1.png>
+Package pdftex.def Info: Figures/circuit_part1.png  used on input line 14.
+(pdftex.def)             Requested size: 136.57462pt x 113.81604pt.
+<Figures/circuit_part3.png, id=121, 220.825pt x 240.9pt>
+File: Figures/circuit_part3.png Graphic file (type png)
+<use Figures/circuit_part3.png>
+Package pdftex.def Info: Figures/circuit_part3.png  used on input line 21.
+(pdftex.def)             Requested size: 136.57462pt x 148.99622pt.
+) (./Textfiles/3.Result.tex
+<Figures/part1(a).pdf, id=122, 361.35pt x 361.35pt>
+File: Figures/part1(a).pdf Graphic file (type pdf)
+<use Figures/part1(a).pdf>
+Package pdftex.def Info: Figures/part1(a).pdf  used on input line 10.
+(pdftex.def)             Requested size: 223.07211pt x 223.07529pt.
+<Figures/part1(b).pdf, id=123, 361.35pt x 361.35pt>
+File: Figures/part1(b).pdf Graphic file (type pdf)
+<use Figures/part1(b).pdf>
+Package pdftex.def Info: Figures/part1(b).pdf  used on input line 12.
+(pdftex.def)             Requested size: 223.07211pt x 223.07529pt.
+<Figures/part1(c).pdf, id=124, 361.35pt x 361.35pt>
+File: Figures/part1(c).pdf Graphic file (type pdf)
+<use Figures/part1(c).pdf>
+Package pdftex.def Info: Figures/part1(c).pdf  used on input line 16.
+(pdftex.def)             Requested size: 223.07211pt x 223.07529pt.
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.30 
-      [2 <./Figures/part1(a).pdf> <./Figures/part1(b).pdf> <./Figures/part1(c).pdf>]) (./Textfiles/4.Discussion.tex) (./Textfiles/5.Conclusion.tex) [3 <./Figures/Part2_before.png> <./Figures/Part2_after.png>]
-No file main.bbl.
+l.22 
+      [2{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc} <./Figures/circuit_part1.png> <./Figures/circuit_part3.png>]
+<Figures/Part2_before.png, id=130, 1251.92719pt x 551.81157pt>
+File: Figures/Part2_before.png Graphic file (type png)
+<use Figures/Part2_before.png>
+Package pdftex.def Info: Figures/Part2_before.png  used on input line 28.
+(pdftex.def)             Requested size: 409.71692pt x 180.5912pt.
+<Figures/Part2_after.png, id=131, 1253.43282pt x 554.07pt>
+File: Figures/Part2_after.png Graphic file (type png)
+<use Figures/Part2_after.png>
+Package pdftex.def Info: Figures/Part2_after.png  used on input line 30.
+(pdftex.def)             Requested size: 409.71692pt x 181.1105pt.
+ [3 <./Figures/part1(a).pdf> <./Figures/part1(b).pdf> <./Figures/part1(c).pdf>]) (./Textfiles/4.Discussion.tex) (./Textfiles/5.Conclusion.tex) [4 <./Figures/Part2_before.png> <./Figures/Part2_after.png>] [5] (.output/main.bbl) [6]
 \openout2 = `Textfiles/appendix.aux'.
 
-(./Textfiles/Appendix.tex) 
+ (./Textfiles/Appendix.tex) 
 enddocument/afterlastpage: lastpage setting LastPage.
 (.output/main.aux (.output/Textfiles/appendix.aux))
  ***********
@@ -911,21 +968,21 @@ LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: F72BF95E979A8B2E0549E5C8BD071068;980.
+(rerunfilecheck)             Checksum: 932C90B2F879C3CB101D17C9C6A53B1F;1293.
  ) 
 Here is how much of TeX's memory you used:
- 31916 strings out of 474222
- 627936 string characters out of 5748732
- 1935975 words of memory out of 5000000
- 53614 multiletter control sequences out of 15000+600000
- 571256 words of font info for 60 fonts, out of 8000000 for 9000
+ 32967 strings out of 474222
+ 651291 string characters out of 5748732
+ 1932975 words of memory out of 5000000
+ 54604 multiletter control sequences out of 15000+600000
+ 572277 words of font info for 62 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,12n,96p,2446b,948s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/share/texmf/fonts/type1/public/cm-super/sfbx1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx2074.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfcc0800.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfcc1728.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm0700.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm0900.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt1200.pfb>
-Output written on .output/main.pdf (6 pages, 459226 bytes).
+ 99i,12n,96p,2446b,952s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/share/texmf/fonts/type1/public/cm-super/sfbx1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx2074.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfcc0800.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfcc1728.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm0700.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm0900.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt1200.pfb>
+Output written on .output/main.pdf (9 pages, 496456 bytes).
 PDF statistics:
- 276 PDF objects out of 1000 (max. 8388607)
- 145 compressed objects within 2 object streams
- 21 named destinations out of 1000 (max. 500000)
- 131 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 328 PDF objects out of 1000 (max. 8388607)
+ 189 compressed objects within 2 object streams
+ 29 named destinations out of 1000 (max. 500000)
+ 165 words of extra memory for PDF output out of 10000 (max. 10000000)
 

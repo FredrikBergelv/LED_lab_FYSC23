@@ -1,42 +1,27 @@
 \section{Experiment}
-\subsection{Part 1}
+During the first part of the lab, we measured the intensity of a white diode at different voltages. The white diode was a violet diode, covered in a phosphorus layer that emitted a white spectrum. The voltage was controlled through a DC source, as shown in \autoref{fig:part1_circuit}. Twelve measurements were taken of the voltage from the DC source, the voltage across the diode, the current through the circuit, and the intensity. The measurements were taken evenly between 1 to \SI{9}{\volt}. The intensity of the diode was evaluated through an glass fibre cable placed directly above the diode. The intensity was displayed in a computer program called AvaSoft, where counts for different wavelengths were shown. The intensity was determined by evaluating the intensity at the largest peak.
 
-Wavelength white LED: 454.17 nm 
-integration time 70 ms 
-averaging every 10th measurements
+In the second part, the same circuit was used; however, this time a yellow diode was employed instead. The fibre optic cable was taped directly onto the diode. One measurement was taken of the voltage from the DC source, the voltage across the diode, the current through the circuit, and the intensity. A screenshot was also captured of the spectrum in the AvaSoft program. Keeping the same voltage from the DC source, the diode was placed in liquid nitrogen, and a similar measurement was taken.
+
+In the last part, another circuit was used, as seen in \autoref{fig:part3_circuit}. This time, neither an ammeter nor a voltmeter was used in the main circuit. Instead, a separate circuit was implemented with a diode and a voltmeter connected in parallel. The DC source was turned on until the diode in the main circuit shone brightly. The other circuit was then placed close to the main circuit to check if the diode in the smaller circuit registered any voltage. This procedure was repeated for all combinations of red, green, and blue diodes.
 
 
-\begin{table}[H]
+
+\begin{figure}[H]
     \centering
-    \begin{tabular}{@{}lllll@{}}
-        \toprule
-        Mesurment & V\textsubscript{in} (V) & V\textsubscript{across} (V) & I\textsubscript{circuit} (mA) & Intensity (counts) \\ \midrule
-        1         & 1                       & 1.14                        & 0.0                           & 5.00               \\
-        2         & 1.8                     & 1.96                        & 0.0                           & 8.00               \\
-        3         & 2.2                     & 2.41                        & 0.00                          & 4.70               \\
-        4         & 2.5                     & 2.56                        & 0.36                          & 590.30             \\
-        5         & 2.9                     & 2.66                        & 3.11                          & 4377.70            \\
-        6         & 3.3                     & 2.72                        & 6.21                          & 7979.50            \\
-        7         & 3.7                     & 2.76                        & 9.24                          & 10846.90           \\
-        8         & 4.4                     & 2.84                        & 15.24                         & 16080.10           \\
-        9         & 5.3                     & 2.93                        & 24.5                          & 21958.10           \\
-        10        & 6.5                     & 3.02                        & 35.2                          & 27642.20           \\
-        11        & 7.3                     & 3.08                        & 42.6                          & 30184.80           \\
-        12        & 8.3                     & 3.15                        & 52.0                          & 33590.00           \\
-        13        & 9.1                     & 3.20                        & 59.0                          & 36153.70           \\ \bottomrule
-        \end{tabular}
-    \caption{tab:part1}
-\end{table}
-
-
-    
-\subsection{Part 1}
-
-Wavelength white LED: 596.85 nm 
-integration time 2 ms 
-averaging every 10th measurements
-
-Before: V\textsubscript{in} was 5.0 V, V\textsubscript{across} 2.06 V, I\textsubscript{circuit} 30.8 mA and the intensity 2663.70
-
-After: V\textsubscript{in} was 5.0 V, V\textsubscript{across} 4.44 V, I\textsubscript{circuit} 7.7 mA and the intensity 10752.70
-
+    \begin{subfigure}{0.3\textwidth}
+        \centering
+        \includegraphics[width=\textwidth]{Figures/circuit_part1.png}
+        \subcaption{This sktch shows the circuit for part 1 and part 2. }
+        \label{fig:part1_circuit}
+    \end{subfigure}
+    \hspace{2cm}
+    \begin{subfigure}{0.3\textwidth}
+        \centering
+        \includegraphics[width=\textwidth]{Figures/circuit_part3.png}
+        \subcaption{This sktch shows the circuit for part 3, with the two different diodes. }
+        \label{fig:part3_circuit}
+    \end{subfigure}
+    \caption{Above one can see the circuits used in this lab. Both circuits used an resistor with \SI{100}{\ohm}. }
+    \label{fig:circuits}
+\end{figure}
