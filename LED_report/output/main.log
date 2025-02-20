@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.9.20)  20 FEB 2025 11:47
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.9.20)  20 FEB 2025 13:35
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -897,9 +897,9 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 
 
-[2] (./Textfiles/1.Introduction.tex) (./Textfiles/2.Method.tex
+[2] (./Textfiles/1.Introduction.tex
 
-[1]
+[1]) (./Textfiles/2.Method.tex
 
 [2]) (./Textfiles/3.Result.tex
 File: Figures/part1(a).pdf Graphic file (type pdf)
@@ -945,4 +945,4 @@ Here is how much of TeX's memory you used:
  1348 hyphenation exceptions out of 8191
  103i,13n,110p,2423b,835s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on output/main.xdv (10 pages, 23684 bytes).
+Output written on output/main.xdv (10 pages, 24904 bytes).
