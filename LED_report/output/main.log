@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.9.20)  20 FEB 2025 11:18
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.9.20)  20 FEB 2025 11:47
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -899,7 +899,9 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 [2] (./Textfiles/1.Introduction.tex) (./Textfiles/2.Method.tex
 
-[1]) (./Textfiles/3.Result.tex
+[1]
+
+[2]) (./Textfiles/3.Result.tex
 File: Figures/part1(a).pdf Graphic file (type pdf)
 <use Figures/part1(a).pdf>
 File: Figures/part1(b).pdf Graphic file (type pdf)
@@ -908,20 +910,20 @@ File: Figures/part1(c).pdf Graphic file (type pdf)
 <use Figures/part1(c).pdf>
 
 
-[2]
+[3]
 File: Figures/Part2_before.png Graphic file (type bmp)
 <Figures/Part2_before.png>
 File: Figures/Part2_after.png Graphic file (type bmp)
 <Figures/Part2_after.png>
 
 
-[3]) (./Textfiles/4.Discussion.tex) (./Textfiles/5.Conclusion.tex)
+[4]) (./Textfiles/4.Discussion.tex) (./Textfiles/5.Conclusion.tex)
 
-[4]
+[5]
 
-[5] (output/main.bbl)
+[6] (output/main.bbl)
 
-[6]
+[7]
 \openout2 = `Textfiles/appendix.aux'.
 
  (./Textfiles/appendix.tex) 
@@ -937,10 +939,10 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 Here is how much of TeX's memory you used:
  34125 strings out of 474235
  688051 string characters out of 5742253
- 1138979 words of memory out of 5000000
+ 1137981 words of memory out of 5000000
  56241 multiletter control sequences out of 15000+600000
  610337 words of font info for 63 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 103i,12n,110p,2423b,835s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 103i,13n,110p,2423b,835s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on output/main.xdv (9 pages, 21584 bytes).
+Output written on output/main.xdv (10 pages, 23684 bytes).
