@@ -1,5 +1,5 @@
 # Fdb version 4
-["bibtex .output/main"] 0 ".output/main.aux" ".output/main.bbl" ".output/main" 1740046987.18263 0
+["bibtex .output/main"] 0 ".output/main.aux" ".output/main.bbl" ".output/main" 1740048283.99196 0
   ".output/Textfiles/appendix.aux" 1739968929.0802 1005 44356b3f37bfab01a173041274fd8b3a "pdflatex"
   ".output/main.aux" 0 -1 0 "pdflatex"
   "/usr/share/texlive/texmf-dist/bibtex/bst/base/unsrt.bst" 1292289607 18030 1376b4b231b50c66211e47e42eda2875 ""
@@ -8,12 +8,12 @@
   ".output/main.bbl"
   ".output/main.blg"
   (rewritten before read)
-["pdflatex"] 1740046985.88115 "/home/fredrik/Documents/Physics Lund/Term 6/FYSC23/LED_lab_FYSC23/LED_report/main.tex" ".output/main.pdf" "main" 1740046987.18285 0
-  ".output/Textfiles/appendix.aux" 1740046986.91398 1116 256a102a89bde14174940e6ab2a23e7a "pdflatex"
-  ".output/main.aux" 1740046986.91598 3626 f6f2949a09cc498498d9323620c21826 "pdflatex"
+["pdflatex"] 1740048282.93036 "/home/fredrik/Documents/Physics Lund/Term 6/FYSC23/LED_lab_FYSC23/LED_report/main.tex" ".output/main.pdf" "main" 1740048283.99233 0
+  ".output/Textfiles/appendix.aux" 1740048283.77036 1116 83427aca6e8c880d99ea786ca8b73875 "pdflatex"
+  ".output/main.aux" 1740048283.77136 4079 bf1efd9f66ad5b52d0d31a27c300b4b6 "pdflatex"
   ".output/main.bbl" 0 -1 0 "bibtex .output/main"
-  ".output/main.out" 1740046986.91598 1071 f97383e87a9c2b1a9f0554204dd0039d "pdflatex"
-  ".output/main.toc" 1740046986.91698 822 67bebd7e62ca7c394bd5d15fcc30f760 "pdflatex"
+  ".output/main.out" 1740048283.77236 1071 f97383e87a9c2b1a9f0554204dd0039d "pdflatex"
+  ".output/main.toc" 1740048283.77236 822 b5635a3e379e6ca446f81cc6f14ffda7 "pdflatex"
   "/etc/texmf/web2c/texmf.cnf" 1732548902.53758 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/home/fredrik/Documents/Physics Lund/Term 6/FYSC23/LED_lab_FYSC23/LED_report/main.tex" 1739968837.51062 594 e6eb7c702f52cc3e65696eb96fe365c1 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -33,6 +33,7 @@
   "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecrm2074.tfm" 1136768653 3584 8e2870ec7aa9776f59654942b0923f51 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecti1200.tfm" 1136768653 3072 8b5a64dc91775463bc95e2d818524028 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ectt1200.tfm" 1136768653 1536 487c9b46984a816c7ed238d0674595c7 ""
+  "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm" 1136768653 1536 e07581a4bb3136ece9eeb4c3ffab8233 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1246382020 916 f87d7c45f9c908e672703b83b72241a3 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam5.tfm" 1246382020 924 9904cf1d39e9767e7a3622f2a125a565 ""
@@ -222,6 +223,7 @@
   "/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty" 1655411236 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
   "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1707919699 40399 f2c302f7d2af602abb742093540a5834 ""
   "/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1636152094 2971 def0b6c1f0b107b3b936def894055589 ""
+  "/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1636152094 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/share/texmf/fonts/type1/public/cm-super/sfbx1000.pfb" 1636152094 145408 43d44302ca7d82d487f511f83e309505 ""
   "/usr/share/texmf/fonts/type1/public/cm-super/sfbx1200.pfb" 1732548917.92863 140176 d4962f948b4cc0adf4d3dde77a128c95 ""
   "/usr/share/texmf/fonts/type1/public/cm-super/sfbx1440.pfb" 1732548917.92963 135942 859a90cad7494a1e79c94baf546d7de5 ""
@@ -250,7 +252,7 @@
   "Other/Title.tex" 1739968626.54428 787 73533d8665221aed7e67c7bc47cde224 ""
   "Textfiles/0.Abstract.tex" 1739968927.21519 19 4a73f522bd35913f1bb3c413c74cfebd ""
   "Textfiles/1.Introduction.tex" 1740045081.23136 57 33a3d2494249bdd37015341950fc3aa3 ""
-  "Textfiles/2.Method.tex" 1740046984.47197 796 65fb039629758fe82914a7d6b09cc168 ""
+  "Textfiles/2.Method.tex" 1740048281.57138 1325 27166902bda13552ea246e06a7a8b479 ""
   "Textfiles/3.Result.tex" 1740046984.47197 1670 5487936723c5593d2b8bada6f4f01c8a ""
   "Textfiles/4.Discussion.tex" 1739968626.54528 20 0e9daa63e73e84f4a684b671b2ca76db ""
   "Textfiles/5.Conclusion.tex" 1739968626.54528 20 b50204e17c0a475d3d65191e029fdf1d ""
