@@ -1,19 +1,19 @@
 # Fdb version 4
-["bibtex output/main"] 1740056623.45062 "output/main.aux" "output/main.bbl" "output/main" 1740056663.93527 0
+["bibtex output/main"] 1740059859.4873 "output/main.aux" "output/main.bbl" "output/main" 1740059861.38363 0
   "./Textfiles/sources.bib" 1740045704.09054 236 0aa15f7b0b3e4bedf08ebdc002100eca ""
   "/usr/local/texlive/2023/texmf-dist/bibtex/bst/base/unsrt.bst" 1292289607 18030 1376b4b231b50c66211e47e42eda2875 ""
-  "output/Textfiles/appendix.aux" 1740056663.09046 1107 2cca7daf8e3a4de4649bc48f609776fc "xelatex"
-  "output/main.aux" 1740056663.09096 4638 0bb26c5846c20993ef8f0f2e04c4b4d9 "xelatex"
+  "output/Textfiles/appendix.aux" 1740059860.42469 1107 2cca7daf8e3a4de4649bc48f609776fc "xelatex"
+  "output/main.aux" 1740059860.42518 4707 95c964cc86f93aee2de5a63fb4478898 "xelatex"
   (generated)
   "output/main.bbl"
   "output/main.blg"
   (rewritten before read)
-["xdvipdfmx"] 1740056663.3327 "output/main.xdv" "output/main.pdf" "output/main" 1740056663.93746 0
-  "output/main.xdv" 1740056663.09236 27724 68565c1c77c9fe9eb2f0a418eb30196a "xelatex"
+["xdvipdfmx"] 1740059860.67442 "output/main.xdv" "output/main.pdf" "output/main" 1740059861.38571 0
+  "output/main.xdv" 1740059860.42688 29084 284952c7d97e147615b38d7f111df043 "xelatex"
   (generated)
   "output/main.pdf"
   (rewritten before read)
-["xelatex"] 1740056662.21129 "/Users/maxeriksson/University/LED_lab_FYSC23/LED_report/main.tex" "output/main.xdv" "main" 1740056663.93536 0
+["xelatex"] 1740059859.60451 "/Users/maxeriksson/University/LED_lab_FYSC23/LED_report/main.tex" "output/main.xdv" "main" 1740059861.38372 0
   "/Users/maxeriksson/University/LED_lab_FYSC23/LED_report/main.tex" 1740054981.90437 594 f59ebd6db463d3bb7c769e210439ddbd ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
@@ -237,18 +237,18 @@
   "Other/Premable.tex" 1740054981.90318 2040 9bf78e8d088f9adcc037977736a3ef64 ""
   "Other/Title.tex" 1740044585.76885 787 73533d8665221aed7e67c7bc47cde224 ""
   "Textfiles/0.Abstract.tex" 1740044585.76901 19 4a73f522bd35913f1bb3c413c74cfebd ""
-  "Textfiles/1.Introduction.tex" 1740056662.04241 3868 cfb76d7ebda62998d680a319cb6e24d8 ""
-  "Textfiles/2.Method.tex" 1740054981.9035 2596 32947f8774127d288823f3d044f45d09 ""
-  "Textfiles/3.Result.tex" 1740054981.90369 1670 5487936723c5593d2b8bada6f4f01c8a ""
+  "Textfiles/1.Introduction.tex" 1740059858.00231 4513 196fc2ea32613a8f279510633e11d457 ""
+  "Textfiles/2.Method.tex" 1740056674.36446 2748 13549d13eae54bf463b3680e5f0eb7f2 ""
+  "Textfiles/3.Result.tex" 1740056674.36466 1674 0c4ca6aeb00258c9a52c81ede9fec817 ""
   "Textfiles/4.Discussion.tex" 1740044585.76938 20 0e9daa63e73e84f4a684b671b2ca76db ""
   "Textfiles/5.Conclusion.tex" 1740044585.76945 20 b50204e17c0a475d3d65191e029fdf1d ""
   "Textfiles/appendix.tex" 1740044585.7695 0 d41d8cd98f00b204e9800998ecf8427e ""
   "main.tex" 1740054981.90437 594 f59ebd6db463d3bb7c769e210439ddbd ""
-  "output/Textfiles/appendix.aux" 1740056663.09046 1107 2cca7daf8e3a4de4649bc48f609776fc "xelatex"
-  "output/main.aux" 1740056663.09096 4638 0bb26c5846c20993ef8f0f2e04c4b4d9 "xelatex"
-  "output/main.bbl" 1740056623.54635 183 98e0478c1cccabc455c9e1ddc89e70a2 "bibtex output/main"
-  "output/main.out" 1740056663.09213 1293 932c90b2f879c3cb101d17c9c6a53b1f "xelatex"
-  "output/main.toc" 1740056663.09231 977 f956b1cd92a47c1118130bb5cfe34004 "xelatex"
+  "output/Textfiles/appendix.aux" 1740059860.42469 1107 2cca7daf8e3a4de4649bc48f609776fc "xelatex"
+  "output/main.aux" 1740059860.42518 4707 95c964cc86f93aee2de5a63fb4478898 "xelatex"
+  "output/main.bbl" 1740059859.59999 183 98e0478c1cccabc455c9e1ddc89e70a2 "bibtex output/main"
+  "output/main.out" 1740059860.4264 1293 932c90b2f879c3cb101d17c9c6a53b1f "xelatex"
+  "output/main.toc" 1740059860.42657 977 f956b1cd92a47c1118130bb5cfe34004 "xelatex"
   (generated)
   "output/Textfiles/appendix.aux"
   "output/main.aux"
