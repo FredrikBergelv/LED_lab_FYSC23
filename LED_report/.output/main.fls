@@ -435,11 +435,6 @@ INPUT ./Textfiles/3.Result.tex
 INPUT ./Textfiles/3.Result.tex
 INPUT Textfiles/3.Result.tex
 INPUT /usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc
-INPUT ./Figures/part1(a).pdf
-INPUT ./Figures/part1(a).pdf
-INPUT ./Figures/part1(a).pdf
-INPUT ./Figures/part1(a).pdf
-INPUT ./Figures/part1(a).pdf
 INPUT ./Figures/part1(b).pdf
 INPUT ./Figures/part1(b).pdf
 INPUT ./Figures/part1(b).pdf
@@ -450,6 +445,11 @@ INPUT ./Figures/part1(c).pdf
 INPUT ./Figures/part1(c).pdf
 INPUT ./Figures/part1(c).pdf
 INPUT ./Figures/part1(c).pdf
+INPUT ./Figures/part1(a).pdf
+INPUT ./Figures/part1(a).pdf
+INPUT ./Figures/part1(a).pdf
+INPUT ./Figures/part1(a).pdf
+INPUT ./Figures/part1(a).pdf
 INPUT ./Figures/Part2_before.png
 INPUT ./Figures/Part2_before.png
 INPUT ./Figures/Part2_before.png
