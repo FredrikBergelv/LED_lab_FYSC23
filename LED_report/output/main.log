@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.9.20)  20 FEB 2025 16:40
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.9.20)  20 FEB 2025 16:48
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -815,7 +815,18 @@ Package: transparent-nometadata 2022-10-27 v1.5 Transparency via pdfTeX's color 
 
 Package transparent Warning: Loading aborted, because pdfTeX is not running in PDF mode.
 
-)))
+)) (/usr/local/texlive/2023/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2023/10/27 v2.16 Sectioning titles
+\ttl@box=\box97
+\beforetitleunit=\skip82
+\aftertitleunit=\skip83
+\ttl@plus=\dimen315
+\ttl@minus=\dimen316
+\ttl@toksa=\toks61
+\titlewidth=\dimen317
+\titlewidthlast=\dimen318
+\titlewidthfirst=\dimen319
+))
 Package translations Info: No language package found. I am going to use `english' as default language. on input line 7.
  (output/main.aux (output/Textfiles/appendix.aux))
 \openout1 = `main.aux'.
@@ -953,11 +964,13 @@ File: Figures/Part2_after2.png Graphic file (type bmp)
 <Figures/Part2_after2.png>
 ) (./Textfiles/4.Discussion.tex
 
-[4]) (./Textfiles/5.Conclusion.tex)
+[4]) (./Textfiles/5.Conclusion.tex
 
-[5] (output/main.bbl)
+[5])
 
-[6]
+[6] (output/main.bbl)
+
+[7]
 \openout2 = `Textfiles/appendix.aux'.
 
  (./Textfiles/appendix.tex) 
@@ -971,12 +984,12 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: EAA7DAF594DB0ED056E9CA41109FA631;1071.
  ) 
 Here is how much of TeX's memory you used:
- 34997 strings out of 474235
- 707923 string characters out of 5742253
- 1183757 words of memory out of 5000000
- 57083 multiletter control sequences out of 15000+600000
+ 35288 strings out of 474235
+ 711835 string characters out of 5742253
+ 1191665 words of memory out of 5000000
+ 57370 multiletter control sequences out of 15000+600000
  613318 words of font info for 64 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 103i,12n,110p,2423b,907s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 103i,12n,110p,2423b,906s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on output/main.xdv (9 pages, 33796 bytes).
+Output written on output/main.xdv (10 pages, 35136 bytes).
