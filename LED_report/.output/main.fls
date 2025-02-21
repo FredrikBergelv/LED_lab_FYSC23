@@ -334,6 +334,8 @@ INPUT /usr/share/texlive/texmf-dist/tex/latex/transparent/transparent.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/transparent/transparent.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/transparent/transparent-nometadata.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/transparent/transparent-nometadata.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
 INPUT .output/main.aux
 INPUT .output/main.aux
