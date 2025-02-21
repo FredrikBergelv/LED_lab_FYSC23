@@ -402,10 +402,10 @@ OUTPUT output/main.xdv
 INPUT ./Textfiles/0.Abstract.tex
 INPUT ./Textfiles/0.Abstract.tex
 INPUT Textfiles/0.Abstract.tex
+INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/lm/ec-lmr9.tfm
+INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/lm/ec-lmbx9.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/lm/ec-lmr12.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/lm/ec-lmbx12.tfm
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/lm/ec-lmr8.tfm
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/lm/ec-lmcsc10.tfm
 INPUT output/main.toc
 INPUT output/main.toc
 INPUT output/main.toc
@@ -431,10 +431,11 @@ INPUT Textfiles/1.Introduction.tex
 INPUT ./Textfiles/2.Method.tex
 INPUT ./Textfiles/2.Method.tex
 INPUT Textfiles/2.Method.tex
+INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/lm/ec-lmr8.tfm
+INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/lm/ec-lmcsc10.tfm
 INPUT ./Figures/circuit_part1.png
 INPUT ./Figures/circuit_part1.png
 INPUT ./Figures/circuit_part1.png
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/lm/ec-lmr9.tfm
 INPUT ./Figures/circuit_part3.png
 INPUT ./Figures/circuit_part3.png
 INPUT ./Figures/circuit_part3.png
