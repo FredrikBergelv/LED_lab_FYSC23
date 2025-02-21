@@ -1,19 +1,19 @@
 # Fdb version 4
-["bibtex .output/main"] 1740066079.00495 ".output/main.aux" ".output/main.bbl" ".output/main" 1740066249.79203 0
+["bibtex .output/main"] 1740066079.00495 ".output/main.aux" ".output/main.bbl" ".output/main" 1740066369.15754 0
   "./Textfiles/sources.bib" 1740048724.61704 236 0aa15f7b0b3e4bedf08ebdc002100eca ""
-  ".output/Textfiles/appendix.aux" 1740066249.54113 1116 af09764633620f3cd352a408198c2c1e "pdflatex"
-  ".output/main.aux" 1740066249.54213 6069 0d7ded46acaa8008b1826b8a99e31fee "pdflatex"
+  ".output/Textfiles/appendix.aux" 1740066368.90997 1116 af09764633620f3cd352a408198c2c1e "pdflatex"
+  ".output/main.aux" 1740066368.91097 6069 0d7ded46acaa8008b1826b8a99e31fee "pdflatex"
   "/usr/share/texlive/texmf-dist/bibtex/bst/base/unsrt.bst" 1292289607 18030 1376b4b231b50c66211e47e42eda2875 ""
   (generated)
   ".output/main.bbl"
   ".output/main.blg"
   (rewritten before read)
-["pdflatex"] 1740066248.67171 "/home/fredrik/Documents/Physics Lund/Term 6/FYSC23/LED_lab_FYSC23/LED_report/main.tex" ".output/main.pdf" "main" 1740066249.79224 0
-  ".output/Textfiles/appendix.aux" 1740066249.54113 1116 af09764633620f3cd352a408198c2c1e "pdflatex"
-  ".output/main.aux" 1740066249.54213 6069 0d7ded46acaa8008b1826b8a99e31fee "pdflatex"
+["pdflatex"] 1740066367.97629 "/home/fredrik/Documents/Physics Lund/Term 6/FYSC23/LED_lab_FYSC23/LED_report/main.tex" ".output/main.pdf" "main" 1740066369.15772 0
+  ".output/Textfiles/appendix.aux" 1740066368.90997 1116 af09764633620f3cd352a408198c2c1e "pdflatex"
+  ".output/main.aux" 1740066368.91097 6069 0d7ded46acaa8008b1826b8a99e31fee "pdflatex"
   ".output/main.bbl" 1740066079.10393 183 98e0478c1cccabc455c9e1ddc89e70a2 "bibtex .output/main"
-  ".output/main.out" 1740066249.54313 1071 eaa7daf594db0ed056e9ca41109fa631 "pdflatex"
-  ".output/main.toc" 1740066249.54413 822 d21c1a6141f5c77aed236bf5b065bc53 "pdflatex"
+  ".output/main.out" 1740066368.91197 1071 eaa7daf594db0ed056e9ca41109fa631 "pdflatex"
+  ".output/main.toc" 1740066368.91197 822 d21c1a6141f5c77aed236bf5b065bc53 "pdflatex"
   "/etc/texmf/web2c/texmf.cnf" 1732548902.53758 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/home/fredrik/Documents/Physics Lund/Term 6/FYSC23/LED_lab_FYSC23/LED_report/main.tex" 1740054494.15203 594 f59ebd6db463d3bb7c769e210439ddbd ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -253,12 +253,12 @@
   "Figures/part1(b).pdf" 1740060700.40795 12859 59e5ec5c1f2577952a913716fc61cf9c ""
   "Figures/part1(c).pdf" 1740060700.45995 12811 9bf72c5c6894377af55e5e01421225ce ""
   "Other/Information.tex" 1739968890.84596 481 004c359b960ace8549f9808a36690ecb ""
-  "Other/Premable.tex" 1740050161.98487 2040 9bf78e8d088f9adcc037977736a3ef64 ""
+  "Other/Premable.tex" 1740066367.71896 2040 9bf78e8d088f9adcc037977736a3ef64 ""
   "Other/Title.tex" 1739968626.54428 787 73533d8665221aed7e67c7bc47cde224 ""
   "Textfiles/0.Abstract.tex" 1739968927.21519 19 4a73f522bd35913f1bb3c413c74cfebd ""
   "Textfiles/1.Introduction.tex" 1740064442.47746 4878 f4750aac7abccfbba1b62e926cebe95b ""
   "Textfiles/2.Method.tex" 1740055781.09978 2748 13549d13eae54bf463b3680e5f0eb7f2 ""
-  "Textfiles/3.Result.tex" 1740066075.81091 3389 30b6c99e1a4bfda30a94517da3eace58 ""
+  "Textfiles/3.Result.tex" 1740066306.70453 3389 d86d109a6a1bca364b55a04f0a61df36 ""
   "Textfiles/4.Discussion.tex" 1740066248.38812 2818 c3919c99ea0987829a6d3ec1fef0ce0c ""
   "Textfiles/5.Conclusion.tex" 1740065285.67234 603 0e7edfb2352fc058af091f5ca61284f7 ""
   "Textfiles/Appendix.tex" 1739968626.54528 0 d41d8cd98f00b204e9800998ecf8427e ""
