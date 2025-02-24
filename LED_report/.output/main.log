@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.11.25)  20 FEB 2025 16:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.11.25)  21 FEB 2025 15:15
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -775,7 +775,18 @@ runsystem(rm -- "main.w18")...executed.
 Package: transparent 2022-10-27 v1.5 Transparency with color stacks
  (/usr/share/texlive/texmf-dist/tex/latex/transparent/transparent-nometadata.sty
 Package: transparent-nometadata 2022-10-27 v1.5 Transparency via pdfTeX's color stack (HO)
-)))
+)) (/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2023/10/27 v2.16 Sectioning titles
+\ttl@box=\box91
+\beforetitleunit=\skip81
+\aftertitleunit=\skip82
+\ttl@plus=\dimen303
+\ttl@minus=\dimen304
+\ttl@toksa=\toks59
+\titlewidth=\dimen305
+\titlewidthlast=\dimen306
+\titlewidthfirst=\dimen307
+))
 Package translations Info: No language package found. I am going to use `english' as default language. on input line 7.
  (.output/main.aux (.output/Textfiles/appendix.aux))
 \openout1 = `main.aux'.
@@ -841,16 +852,16 @@ Package hyperref Info: Link coloring ON on input line 7.
  (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count368
-\scratchdimen=\dimen303
-\scratchbox=\box91
+\scratchdimen=\dimen308
+\scratchbox=\box92
 \nofMPsegments=\count369
 \nofMParguments=\count370
-\everyMPshowfont=\toks59
+\everyMPshowfont=\toks60
 \MPscratchCnt=\count371
-\MPscratchDim=\dimen304
+\MPscratchDim=\dimen309
 \MPnumerator=\count372
 \makeMPintoPDFobject=\count373
-\everyMPtoPDFconversion=\toks60
+\everyMPtoPDFconversion=\toks61
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
@@ -896,7 +907,7 @@ Package pdftex.def Info: Figures/Lund logo.png  used on input line 38.
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.13 \newpage
+l.14 \newpage
               [1] (.output/main.toc
 LaTeX Font Info:    Trying to load font information for U+msa on input line 5.
  (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
@@ -913,8 +924,8 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.1 \section
-            {Experiment} [1]
+l.3 
+     [1]
 <Figures/circuit_part1.png, id=118, 240.9pt x 200.75pt>
 File: Figures/circuit_part1.png Graphic file (type png)
 <use Figures/circuit_part1.png>
@@ -929,35 +940,35 @@ Package pdftex.def Info: Figures/circuit_part3.png  used on input line 21.
 pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.4 
-     [2{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc} <./Figures/circuit_part1.png> <./Figures/circuit_part3.png>]
-<Figures/part1(b).pdf, id=128, 433.62pt x 361.35pt>
+l.1 \newpage
+             [2{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc} <./Figures/circuit_part1.png> <./Figures/circuit_part3.png>]
+<Figures/part1(b).pdf, id=127, 433.62pt x 361.35pt>
 File: Figures/part1(b).pdf Graphic file (type pdf)
 <use Figures/part1(b).pdf>
-Package pdftex.def Info: Figures/part1(b).pdf  used on input line 7.
+Package pdftex.def Info: Figures/part1(b).pdf  used on input line 8.
 (pdftex.def)             Requested size: 223.07211pt x 185.89607pt.
-<Figures/part1(c).pdf, id=129, 433.62pt x 361.35pt>
+<Figures/part1(c).pdf, id=128, 433.62pt x 361.35pt>
 File: Figures/part1(c).pdf Graphic file (type pdf)
 <use Figures/part1(c).pdf>
-Package pdftex.def Info: Figures/part1(c).pdf  used on input line 9.
+Package pdftex.def Info: Figures/part1(c).pdf  used on input line 10.
 (pdftex.def)             Requested size: 223.07211pt x 185.89607pt.
-<Figures/part1(a).pdf, id=130, 433.62pt x 361.35pt>
+<Figures/part1(a).pdf, id=129, 433.62pt x 361.35pt>
 File: Figures/part1(a).pdf Graphic file (type pdf)
 <use Figures/part1(a).pdf>
-Package pdftex.def Info: Figures/part1(a).pdf  used on input line 13.
+Package pdftex.def Info: Figures/part1(a).pdf  used on input line 14.
 (pdftex.def)             Requested size: 223.07211pt x 185.89607pt.
  [3 <./Figures/part1(b).pdf> <./Figures/part1(c).pdf> <./Figures/part1(a).pdf>]
-<Figures/Part2_before2.png, id=269, 770.88pt x 551.81157pt>
+<Figures/Part2_before2.png, id=268, 770.88pt x 551.81157pt>
 File: Figures/Part2_before2.png Graphic file (type png)
 <use Figures/Part2_before2.png>
-Package pdftex.def Info: Figures/Part2_before2.png  used on input line 40.
-(pdftex.def)             Requested size: 177.54492pt x 127.08238pt.
-<Figures/Part2_after2.png, id=270, 695.59875pt x 554.07pt>
+Package pdftex.def Info: Figures/Part2_before2.png  used on input line 41.
+(pdftex.def)             Requested size: 223.07211pt x 159.67604pt.
+<Figures/Part2_after2.png, id=269, 695.59875pt x 554.07pt>
 File: Figures/Part2_after2.png Graphic file (type png)
 <use Figures/Part2_after2.png>
-Package pdftex.def Info: Figures/Part2_after2.png  used on input line 42.
-(pdftex.def)             Requested size: 177.54492pt x 141.41702pt.
-) (./Textfiles/4.Discussion.tex [4 <./Figures/Part2_before2.png> <./Figures/Part2_after2.png>]) (./Textfiles/5.Conclusion.tex [5]) [6] (.output/main.bbl) [7]
+Package pdftex.def Info: Figures/Part2_after2.png  used on input line 43.
+(pdftex.def)             Requested size: 223.07211pt x 177.67801pt.
+) (./Textfiles/4.Discussion.tex [4 <./Figures/Part2_before2.png> <./Figures/Part2_after2.png>]) (./Textfiles/5.Conclusion.tex) [5] (.output/main.bbl) [6]
 \openout2 = `Textfiles/appendix.aux'.
 
  (./Textfiles/Appendix.tex) 
@@ -971,18 +982,18 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: EAA7DAF594DB0ED056E9CA41109FA631;1071.
  ) 
 Here is how much of TeX's memory you used:
- 32969 strings out of 474222
- 651308 string characters out of 5748732
- 1935975 words of memory out of 5000000
- 54605 multiletter control sequences out of 15000+600000
- 573043 words of font info for 63 fonts, out of 8000000 for 9000
+ 33260 strings out of 474222
+ 655250 string characters out of 5748732
+ 1937975 words of memory out of 5000000
+ 54895 multiletter control sequences out of 15000+600000
+ 573819 words of font info for 64 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,12n,96p,2446b,952s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx2074.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfcc0800.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfcc1728.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm0700.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm0900.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt1200.pfb>
-Output written on .output/main.pdf (10 pages, 510369 bytes).
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx0900.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx2074.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfcc0800.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfcc1728.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm0700.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm0900.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt1200.pfb>
+Output written on .output/main.pdf (9 pages, 533191 bytes).
 PDF statistics:
- 372 PDF objects out of 1000 (max. 8388607)
- 208 compressed objects within 3 object streams
- 29 named destinations out of 1000 (max. 500000)
+ 370 PDF objects out of 1000 (max. 8388607)
+ 205 compressed objects within 3 object streams
+ 25 named destinations out of 1000 (max. 500000)
  149 words of extra memory for PDF output out of 10000 (max. 10000000)
 
